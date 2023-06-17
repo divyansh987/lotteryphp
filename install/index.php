@@ -281,17 +281,6 @@ MIX_PUSHER_APP_CLUSTER='${PUSHER_APP_CLUSTER}'
 										</div>
 									</div>
 									<div class="info-item">
-										<h5 class="font-weight-normal mb-2">Purchase Verification</h5>
-										<div class="row">
-											<div class="information-form-group col-sm-6">
-												<input type="text" name="user" placeholder="Username" required>
-											</div>
-											<div class="information-form-group col-sm-6">
-												<input type="text" name="code" placeholder="Purchase Code" required>
-											</div>
-										</div>
-									</div>
-									<div class="info-item">
 										<h5 class="font-weight-normal mb-2">Database Details</h5>
 										<div class="row">
 											<div class="information-form-group col-sm-6">
